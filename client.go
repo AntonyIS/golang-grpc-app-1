@@ -8,7 +8,7 @@ import (
 	"context"
 	"log"
 
-	"example.com/app_1/chat"
+	"github.com/AntonyIS/golang-grpc-app-1/chat"
 	"google.golang.org/grpc"
 )
 
