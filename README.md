@@ -4,13 +4,13 @@ gRPC is a modern open source Remote Procedural Call (RPC) framework.  It can eff
 
 ## Feature
 * #### Simple service defination
-* * * Define your service using Protocol Buffers, a powerful binary serialization toolset and language
+* Define your service using Protocol Buffers, a powerful binary serialization toolset and language
 * ### Start Quickly and scale
-* * * Install runtime and dev environments with a single line and also scale to millions of RPCs per second with the framework
+* Install runtime and dev environments with a single line and also scale to millions of RPCs per second with the framework
 * ### Works across languages and platforms
-* * * Automatically generate idiomatic client and server stubs for your service in a variety of languages and platforms
+* Automatically generate idiomatic client and server stubs for your service in a variety of languages and platforms
 * #### Bi-directional streaming and integrated auth
-* * * Bi-directional streaming and fully integrated pluggable authentication with HTTP/2-based transport
+*  Bi-directional streaming and fully integrated pluggable authentication with HTTP/2-based transport
 
 ## Companies using gRPC
 * Square
@@ -23,7 +23,7 @@ gRPC is a modern open source Remote Procedural Call (RPC) framework.  It can eff
 * Samsung Electronics
 
 ## References
-[gRPC](https://grpc.io/)
-[HG Insights](https://discovery.hgdata.com/product/google-grpc)
+* [gRPC](https://grpc.io/)
+* [HG Insights](https://discovery.hgdata.com/product/google-grpc)
 
       
